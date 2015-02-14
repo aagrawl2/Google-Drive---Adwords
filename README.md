@@ -33,4 +33,6 @@ If you have not generated refresh token take reference : https://github.com/aagr
 
 7) Move the files that are backd up to Trash in Google Drive
 
+8) If you want to take a look at the Adwords scripts , please refer to javascript folder
+
 
